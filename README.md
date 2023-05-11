@@ -11,4 +11,5 @@ The code deploys Transformer Seq2Seq model with the following optimization tecni
 - Beam search or Greedy search algorithm
 - Parameter tuning
 
-The final result of CER among multiple runs is approximately 0.03
+The final result of CER among multiple runs is approximately 0.030.
+The best result conducted equals to 0.288. 
